@@ -38,7 +38,6 @@ The project uses **two datasets** capturing the penicillin fermentation process:
 - Correlation matrix + heatmap (**Seaborn**)  
 - Individual scatter plots (**Matplotlib**)  
 - Combined scatter plot grid showing all parameters vs Penicillin (**Matplotlib**)  
-- Control charts for Penicillin (optional, **Matplotlib**)  
 
 > Seaborn was used for the correlation heatmap due to its easy-to-read, visually appealing style. Matplotlib was used for custom scatter plots and grid visualizations.
 
