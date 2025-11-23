@@ -80,6 +80,6 @@ Indicating conditions where penicillin biosynthesis is slightly reduced.
 - Agitator rpm (constant → NaN correlation)
 
 ### Interpretation:
-Penicillin production is strongly linked to **oxygen transfer, biomass growth, and fermentation duration**, which aligns with known aerobic secondary metabolite pathways.
+Penicillin production is strongly linked to **oxygen transfer and fermentation duration**, which aligns with known aerobic secondary metabolite pathways.
 
 ---
